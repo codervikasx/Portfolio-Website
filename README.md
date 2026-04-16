@@ -52,9 +52,4 @@ The portfolio includes the following sections:
 
 ---
 
-## 🚀 Getting Started
-If you use this project, please give credit.
-Clone the repository:
 
-```bash
-git clone https://github.com/Brahmpreett/rubikscube.git
